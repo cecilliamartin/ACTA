@@ -10,4 +10,7 @@ body{background-color:#87CEFA;}
     text-decoration:none;
     font-size:16px:
     font-weight:bold:}
-img{text-align:center;}
+img{display:block;
+    margin:20px auto;
+    max-width:100%;
+    height:auto;}
