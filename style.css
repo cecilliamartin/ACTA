@@ -1,13 +1,13 @@
 h1{text-align:center;
     font-family:arial;
-    color:white;}
-body{background-color:#5EA6C9;}
+    color:black;}
+body{background-color:#FFF2B5;}
 .menu-saya{
     list-style:none;
     display:flex;
     padding:20px;}
 .menu-saya a{
-    color:white
+    color:black
     text-decoration:none;
     font-size:16px:
     font-weight:bold:}
@@ -19,4 +19,4 @@ video{display:block;
     margin:20px auto;
     max-width:100%;
     height:auto;}
-p{color:white;}
+p{color:black;}
